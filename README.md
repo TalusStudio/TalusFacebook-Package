@@ -1,5 +1,8 @@
 # TalusFacebook Package
 
+# ❗ Information
+- Facebook SDK Version: 9.2.0
+
 # 💿 Installation
 - Clone repository and extract it.
 - In Unity, 
