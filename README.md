@@ -1,7 +1,8 @@
 # TalusFacebook Package
-
-# ❗ Information
 - Facebook SDK Version: 9.2.0
+
+# ❗ Dependencies 
+- [TalusPlayServicesResolver](https://github.com/TalusStudio/TalusPlayServicesResolver-Package)
 
 # 💿 Installation
 - Clone repository and extract it.
