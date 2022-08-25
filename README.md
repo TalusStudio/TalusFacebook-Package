@@ -2,7 +2,7 @@
 - Facebook SDK Version: 11.0.0
 
 # ❗ Dependencies 
-- [TalusPlayServicesResolver](https://github.com/TalusStudio/TalusPlayServicesResolver-Package)
+- [TalusResolver](https://github.com/TalusStudio-Packages/TalusResolver-Package.git)
 
 # 💿 Installation
 - In Unity, 
