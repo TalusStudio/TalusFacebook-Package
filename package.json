@@ -15,6 +15,6 @@
     "url": "http://www.talusstudio.com"
   },
   "dependencies": {
-    "com.talus.talusresolver": "1.0.0"
+    "com.google.external-dependency-manager": ""
   }
 }
