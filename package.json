@@ -15,6 +15,6 @@
     "url": "http://www.talusstudio.com"
   },
   "dependencies": {
-    "com.google.external-dependency-manager": ""
+    "com.google.external-dependency-manager": "1.2.169"
   }
 }
