@@ -1,7 +1,7 @@
 {
   "name": "com.talus.talusfacebook",
   "version": "1.0.1",
-  "displayName": "TalusFacebook",
+  "displayName": "Facebook SDK",
   "description": "Packaged Facebook SDK.",
   "unity": "2020.3",
   "unityRelease": "9f1",
@@ -10,9 +10,9 @@
     "backend"
   ],
   "author": {
-    "name": "Talus Studio",
-    "email": "info@talusstudio.com",
-    "url": "http://www.talusstudio.com"
+    "name": "Facebook",
+    "email": "info@facebook.com",
+    "url": "https://github.com/facebook/facebook-sdk-for-unity"
   },
   "repository": "github:talusstudio/TalusFacebook-Package"
 }
