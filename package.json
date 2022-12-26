@@ -1,6 +1,6 @@
 {
   "name": "com.talus.talusfacebook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "Facebook SDK",
   "description": "Packaged Facebook SDK.",
   "unity": "2020.3",
