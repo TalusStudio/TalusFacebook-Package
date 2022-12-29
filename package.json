@@ -1,12 +1,12 @@
 {
   "name": "com.talus.talusfacebook",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "displayName": "Facebook SDK",
   "description": "Original Version : 14.1.0",
   "unity": "2020.3",
   "unityRelease": "9f1",
   "dependencies": {
-    "com.talus.talusresolver": "1.2.2"
+    "com.talus.talusresolver": "1.2.3"
   },
   "keywords": [
     "facebook",
